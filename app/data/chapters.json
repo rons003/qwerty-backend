@@ -1,0 +1,299 @@
+[
+  {
+    "name": "Chapter 1: Introducing GakkoBlocks",
+    "desc": "",
+    "chapter_items": [
+      {
+        "item_type": "slides",
+        "name": "Introduction",
+        "url": "https://docs.google.com/presentation/d/1-865ozy6zWf3rMVn1Td1TxIuMG7VQpRnaZrycCaSpmU/embed?start=false&loop=false&delayms=10000"
+      },
+      {
+        "item_type": "video",
+        "name": "Gamespace and Workspace",
+        "url": "https://www.youtube.com/embed/ZTPLItXmWZA"
+      },
+      {
+        "item_type": "challenge",
+        "name": "Let's Jump!"
+      },
+      {
+        "item_type": "challenge",
+        "name": "Dance Party"
+      },
+      {
+        "item_type": "video",
+        "name": "Blocks with Fields and 2 Event Blocks",
+        "url": "https://www.youtube.com/embed/R3cZzwT9tV8"
+      },
+      {
+        "item_type": "challenge",
+        "name": "Rabbits Jump Higher"
+      },
+      {
+        "item_type": "challenge",
+        "name": "When Cat Meets Rabbit"
+      },
+      {
+        "item_type": "challenge",
+        "name": "Jump in Sequence"
+      }
+    ]
+  },
+  {
+    "name": "Chapter 2: Motion I",
+    "desc": "",
+    "chapter_items": [
+      {
+        "item_type": "slides",
+        "name": "Slides 2: Motion I",
+        "url": "https://docs.google.com/presentation/d/1GKcf2qyNTrcIpwFjcTBYzFiu9cNoaGNp-bT4gstUK9g/embed?start=false&loop=false&delayms=10000"
+      },
+      {
+        "item_type": "video",
+        "name": "Forward and Rotate",
+        "url": "https://www.youtube.com/embed/3jEJifONOkg"
+      },
+      {
+        "item_type": "challenge",
+        "name": "Going Forward"
+      },
+      {
+        "item_type": "challenge",
+        "name": "Drive Cat Up the Wall"
+      },
+      {
+        "item_type": "challenge",
+        "name": "Cat Running Up the Wall"
+      },
+      {
+        "item_type": "video",
+        "name": "Pendown",
+        "url": "https://www.youtube.com/embed/gHDq4CQf5V8"
+      },
+      {
+        "item_type": "challenge",
+        "name": "Drawing Time!"
+      },
+      {
+        "item_type": "challenge",
+        "name": "Drawing a Right Angle"
+      },
+      {
+        "item_type": "challenge",
+        "name": "Acute Cat"
+      },
+      {
+        "item_type": "challenge",
+        "name": "As Equals"
+      },
+      {
+        "item_type": "challenge",
+        "name": "It's a Plus!"
+      },
+      {
+        "item_type": "challenge",
+        "name": "X"
+      },
+      {
+        "item_type": "challenge",
+        "name": "Colours and Hexagons"
+      }
+    ]
+  },
+  {
+    "name": "Chapter 3: Motion II",
+    "desc": "",
+    "chapter_items": [
+      {
+        "item_type": "slides",
+        "name": "Slides 3: Motion II",
+        "url": "https://docs.google.com/presentation/d/15wTGE21Xr081C2_bbo-XjqjNMJw6ijE61tWFslM8ptE/embed?start=false&loop=false&delayms=10000"
+      },
+      {
+        "item_type": "video",
+        "name": "Negative Numbers in Fields",
+        "url": "https://www.youtube.com/embed/80TkBo5qyw4"
+      },
+      {
+        "item_type": "challenge",
+        "name": "When Cat Meets Lion"
+      },
+      {
+        "item_type": "challenge",
+        "name": "Monkey's Moonwalk"
+      },
+      {
+        "item_type": "challenge",
+        "name": "Be Square"
+      },
+      {
+        "item_type": "video",
+        "name": "New Rotate New Pens",
+        "url": "https://www.youtube.com/embed/g2JGaDA8TzQ"
+      },
+      {
+        "item_type": "challenge",
+        "name": "Float Like a Butterfly"
+      },
+      {
+        "item_type": "challenge",
+        "name": "Monkey the Ninja"
+      },
+      {
+        "item_type": "challenge",
+        "name": "Monkey the Ninja Part II"
+      },
+      {
+        "item_type": "challenge",
+        "name": "Dash Dash Dash"
+      },
+      {
+        "item_type": "challenge",
+        "name": "Equality"
+      },
+      {
+        "item_type": "challenge",
+        "name": "Stay Positive"
+      },
+      {
+        "item_type": "challenge",
+        "name": "Wish Upon a Star"
+      }
+    ]
+  },
+  {
+    "name": "Chapter 4: Loops",
+    "desc": "",
+    "chapter_items": [
+      {
+        "item_type": "slides",
+        "name": "Slides 4: Loops",
+        "url": "https://docs.google.com/presentation/d/1Ccj4UQeONaa3OC4u7iiyg5rmylv-ZB0geshMW1szxUo/embed?start=false&loop=false&delayms=10000"
+      },
+      {
+        "item_type": "video",
+        "name": "Loops!",
+        "url": "https://www.youtube.com/embed/y9c0vk684Hs"
+      },
+      {
+        "item_type": "challenge",
+        "name": "Return of the Dance Party"
+      },
+      {
+        "item_type": "challenge",
+        "name": "Let's Be Ninjas"
+      },
+      {
+        "item_type": "challenge",
+        "name": "Loopy Square"
+      },
+      {
+        "item_type": "challenge",
+        "name": "Triangle"
+      },
+      {
+        "item_type": "challenge",
+        "name": "Hexagon Returns"
+      },
+      {
+        "item_type": "challenge",
+        "name": "Plus a Loop"
+      },
+      {
+        "item_type": "challenge",
+        "name": "Going Parallel"
+      },
+      {
+        "item_type": "challenge",
+        "name": "Going Up the Stairs"
+      },
+      {
+        "item_type": "challenge",
+        "name": "The Pentagon"
+      },
+      {
+        "item_type": "challenge",
+        "name": "Catch a Falling Star"
+      }
+    ]
+  },
+  {
+    "name": "Chapter 5: Events",
+    "desc": "",
+    "chapter_items": [
+      {
+        "item_type": "slides",
+        "name": "Slides 5: Events",
+        "url": "https://docs.google.com/presentation/d/1jDvkIHa1FOPU5cm9jNPQ8rWHz6Y-a88sS2bcjbDPPw0/embed?start=false&loop=false&delayms=10000"
+      },
+      {
+        "item_type": "video",
+        "name": "Click Events",
+        "url": "https://www.youtube.com/embed/6ThRRHbKGA4"
+      },
+      {
+        "item_type": "challenge",
+        "name": "Click to Jump"
+      },
+      {
+        "item_type": "challenge",
+        "name": "Much Random"
+      },
+      {
+        "item_type": "challenge",
+        "name": "Butter-Fly"
+      },
+      {
+        "item_type": "video",
+        "name": "Keyboard Events",
+        "url": "https://www.youtube.com/embed/LCHNkC06Xzw"
+      },
+      {
+        "item_type": "challenge",
+        "name": "Ups-a-Daisy"
+      },
+      {
+        "item_type": "challenge",
+        "name": "Cat the Ninja"
+      },
+      {
+        "item_type": "challenge",
+        "name": "Ultimate Ninja"
+      },
+      {
+        "item_type": "challenge",
+        "name": "Run, Run, Run"
+      },
+      {
+        "item_type": "challenge",
+        "name": "Cat On a Roll"
+      },
+      {
+        "item_type": "challenge",
+        "name": "Paint with All the Colours"
+      },
+      {
+        "item_type": "video",
+        "name": "Collision Events",
+        "url": "https://www.youtube.com/embed/3WexBNBLTRo"
+      },
+      {
+        "item_type": "challenge",
+        "name": "Let's Collide!"
+      },
+      {
+        "item_type": "challenge",
+        "name": "A Relay Race"
+      },
+      {
+        "item_type": "challenge",
+        "name": "Relay Race to the Lucky Crab!"
+      },
+      {
+        "item_type": "challenge",
+        "name": "Frogger"
+      }
+    ]
+  }
+]

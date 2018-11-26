@@ -1,0 +1,12 @@
+*.py~
+*.pyc
+app/data/classesInDatabase.csv
+app/data/passwords.txt
+app/config.cfg
+
+codegakko/
+.idea/
+.vscode/
+.pytest_cache/
+
+.DS_Store

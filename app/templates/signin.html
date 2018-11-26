@@ -1,0 +1,72 @@
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+  <title>Code Gakko Challenge Selector</title>
+  <link rel="stylesheet" href="static/css/styles.css">
+  <link rel="stylesheet" href="static/css/bootstrap-theme.css">
+  <link rel="stylesheet" href="static/css/bootstrap.css">
+  <!-- Custom styles for this template -->
+  <link rel="stylesheet" href="static/css/navbar-fixed-top.css">
+
+  <link rel="stylesheet" href="static/css/css">
+  <link rel="stylesheet" href="static/css/icon">
+  <link rel="stylesheet" href="static/css/material.grey-orange.min.css">
+  <link rel="stylesheet" href="static/css/styles.css">
+  <link rel="shortcut icon" href="static/images/favicon.ico">
+  <style>
+  #view-source {
+    position: fixed;
+    display: block;
+    right: 0;
+    bottom: 0;
+    margin-right: 40px;
+    margin-bottom: 40px;
+    z-index: 900;
+  }
+  </style>
+
+</head>
+<body data-gr-c-s-loaded="true">
+  <div class="container">
+      <nav class="navbar navbar-default navbar-fixed-top">
+        <div class="container">
+          <div class="navbar-header">
+            <a class="navbar-brand" href="{{ url_for ('index') }}">
+                    <img src="static/images/logo.png" width="40" height="40" style="position: relative; top: -10px;">
+                </a>
+          </div>
+          <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+            <ul class="nav navbar-nav">
+                <li class="dropdown">
+                  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Course List<span class="caret"></span></a>
+                  <ul class="dropdown-menu">
+                    <li><a href="#">Beginner</a></li>
+                    <li><a href="#">Intermediate</a></li>
+                    <li><a href="#">Advanced</a></li>
+                  </ul>
+                </li>
+            </ul>
+          </div>
+        </div>
+      </nav>
+
+      <div class="jumbotron">
+        <h1>Code Gakko Platform - Sign In</h1>
+        <form method="POST">
+            {{ form.hidden_tag() }}
+            {{ form.username.label }}: {{ form.username() }} {% for error in form.username.errors %}{{ error }}{% endfor %}<br>
+            {{ form.pwd.label }}: {{ form.pwd() }} {% for error in form.pwd.errors %}{{ error }}{% endfor %}<br>
+            {{ form.submit() }}
+        </form>
+      </div>
+
+  </div>
+</body>
+<script src="static/js/jquery.min.js"></script>
+<script src="static/js/bootstrap.min.js"></script>
+<script src="static/js/ie10-viewport-bug-workaround.js"></script>
+<script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+<script src="static/js/material.min.js"></script>
+</html>
